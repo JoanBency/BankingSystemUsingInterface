@@ -1,0 +1,16 @@
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\BankingAppUsingInterface.exe
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\BankingAppUsingInterface.deps.json
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\BankingAppUsingInterface.runtimeconfig.json
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\BankingAppUsingInterface.runtimeconfig.dev.json
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\BankingAppUsingInterface.dll
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\ref\BankingAppUsingInterface.dll
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\bin\Debug\net5.0\BankingAppUsingInterface.pdb
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.csprojAssemblyReference.cache
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.AssemblyInfoInputs.cache
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.AssemblyInfo.cs
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.dll
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\ref\BankingAppUsingInterface.dll
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.pdb
+C:\Users\joan.bency\source\repos\BankingAppUsingInterface\BankingAppUsingInterface\obj\Debug\net5.0\BankingAppUsingInterface.genruntimeconfig.cache
